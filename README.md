@@ -1,7 +1,7 @@
-Cybersecurity Awareness Chatbot – Part 3
+Cybersecurity Awareness Chatbot
 Overview
 
-The Cybersecurity Awareness Chatbot is a Windows Presentation Foundation (WPF) application developed in C# as part of the PROG6221 Programming assignment. This application expands on the previous console-based chatbot by introducing a graphical user interface, database integration, task management, user personalisation, sentiment detection, and improved object-oriented programming practices.
+The Cybersecurity Awareness Chatbot is a Windows Presentation Foundation (WPF) application. This application expands on the previous console-based chatbot by introducing a graphical user interface, database integration, task management, user personalisation, sentiment detection, and improved object-oriented programming practices.
 
 The purpose of the chatbot is to educate users about cybersecurity awareness while providing an interactive and user-friendly experience.
 
